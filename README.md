@@ -50,6 +50,8 @@ than it currently has therefor new columns have to be made for proper analysis, 
 
 
   This question can be sub divided into three sub categories - `amenities`,`ratings and reviews` and `property characteristics`.
+
+  
   6. Which months have the highest prices of bookings ?
   7. Which factors have dependency to the price of the property ?
 
