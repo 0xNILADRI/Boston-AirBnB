@@ -47,6 +47,7 @@ than it currently has therefor new columns have to be made for proper analysis, 
   3. What are the different property types and room types which people prefer to book ?
   4. Which neighborhoods in Boston are the highest and lowest rated by people along with average price and booking count ?
   5. What are the different factors that relates to price of the property ?
+  This question can be sub divided into three sub categories - `amenities`,`ratings and reviews` and `property characteristics`.
   6. Which months have the highest prices of bookings ?
   7. Which factors have dependency to the price of the property ?
 
