@@ -54,7 +54,7 @@ than it currently has therefor new columns have to be made for proper analysis, 
 
 ## Conclusion
 
-A detailed conclusion has been provided in the Communication_airbnb_boston.ipynb.
+A detailed conclusion has been provided in the airbnb_boston.ipynb and a brief report has been provided in slide_deck_airbnb_boston.ipynb.
 
 ### Sources :
       1. Boston-AirBnB Data Set (Kaggle)
